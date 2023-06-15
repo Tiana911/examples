@@ -10,8 +10,9 @@
 * git checkout -  позволяет перемещаться между ветками 
 * git clone -  создает копию существующего репозитория git
 * git reset -  отменяет изменения в файлах в рабочем каталоге
+* git remote - управляет списком удаленных репозиториев
 ## Ветки
 * git branch_name - создат новую ветку с названием branch_name
 * git branch -d_name - позволяет удалить ветку
 * git merge_branch_name - делает слияние веток
-* git checkout_branch_name - перемещение на нужную ветку 
+* git checkout_branch_name - перемещение на нужную ветку
