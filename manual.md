@@ -13,3 +13,7 @@
 * git remote - управляет списком удаленных репозиториев
 ## Ветки
 * git branch -  выводит список веток
+* git branch_name - создат новую ветку с названием branch_name
+* git branch -d_name - позволяет удалить ветку
+* git merge_branch_name - делает слияние веток
+* git deff -  выводит разницу файлов
