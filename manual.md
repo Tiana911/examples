@@ -14,3 +14,4 @@
 * git branch_name - создат новую ветку с названием branch_name
 * git branch -d_name - позволяет удалить ветку
 * git merge_branch_name - делает слияние веток
+* git checkout_branch_name - перемещение на нужную ветку 
